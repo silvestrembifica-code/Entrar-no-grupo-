@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Entrar no Grupo</title>
     <script>
-        const linkAnuncio = "https://otieu.com/4/1020019";
+        const linkAnuncio = "https://otieu.com/4/10200192";
         const linkDestino = "https://chat.whatsapp.com/LuRohRp3AUWIIbgDqc2KDu?mode=wwt";
 
         function entrar() {
